@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcf5eb48-95fd-4fdb-8cc6-59fcd6d3efc0" name="Changes" comment="" />
+    <list default="true" id="dcf5eb48-95fd-4fdb-8cc6-59fcd6d3efc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/javaProject/bmicalculatorapp",
     "onboarding.tips.debug.path": "C:/javaProject/bmicalculatorapp/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683371305809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vücut Kitle İndeksi Hesaplama Uygulaması hazırlandı.Test edildi.">
+      <created>1683375545776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683375545776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
